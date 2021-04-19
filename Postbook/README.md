@@ -2,7 +2,7 @@ Tenemos una página en donde podemos crear nuestros propios post, públicos o pr
 
 ![image](https://user-images.githubusercontent.com/43856126/115179232-6267c700-a0c2-11eb-856d-78e37994b286.png)
 
-En sign in traté de hacer un pooco de SQL injection sin éxito. Así que nos vamos por el lado de Sign up, donde nos podemos crear una cuenta.
+En sign in traté de hacer un poco de SQL injection sin éxito. Así que nos vamos por el lado de Sign up, donde nos podemos crear una cuenta.
 
 Al crear la cuenta y acceder a ella vemos secciones nuevas en la barra de herramientas y en el contenido de la página principal en el cual podemos observar algunos post públicos:
 
